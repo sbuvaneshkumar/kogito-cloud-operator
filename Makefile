@@ -1,3 +1,4 @@
+# Testing commit 7b22eb65
 # kernel-style V=1 build verbosity
 ifeq ("$(origin V)", "command line")
        BUILD_VERBOSE = $(V)
